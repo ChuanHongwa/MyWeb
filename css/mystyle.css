@@ -1,0 +1,50 @@
+#home {
+    background-image: url(../images/science-fiction_001.jpg);
+    background-size: cover;
+}
+#about{
+    background-image: url(../images/night-911712_1920.jpg);
+    background-size: cover;
+}
+#photo {
+    background-image: url(../images/dock-1365387_1920.jpg);
+    background-size: cover;
+}
+
+.nav {
+    height: 50px;
+    text-align: center;
+    background-color: brown;
+}
+.nav li {
+    display: inline;
+    margin-right: 15px;
+    line-height: 50px;
+}
+.nav a{
+    font-size: 30px;
+    color: white;
+    background-color: #fa0;
+    text-decoration: none;
+    padding: 5px;     
+}
+.nav a:hover {
+    color: #0af;
+    background-color: #fff;
+}
+.aa {
+    color: #fff;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 200px;
+}
+.bb {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 200px;
+}
+.bb h1 {
+    font-size: 60px;
+    margin-bottom: 50px;
+}
